@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-[![CodeQL](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/github-code-scanning/codeql)
+[![CodeQL](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/github-code-scanning/codeql)  [![Java CI with Maven](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/maven.yml/badge.svg)](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/maven.yml)
 ## Top Interview 150
 
 ### 88. Merge Sorted Array
