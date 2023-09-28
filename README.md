@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-
+[![CodeQL](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/d4rkr0n1n/LeetCode-Solutions/actions/workflows/github-code-scanning/codeql)
 ## Top Interview 150
 
 ### 88. Merge Sorted Array
