@@ -9,5 +9,12 @@ public class Solution {
     System.arraycopy(nums2, 0, nums1, m, n);
     Arrays.sort(nums1);
   }
+
+  // 27. Remove Element
+  public int removeElement(int[] nums, int val) {
+      int newNums[] = Arrays.stream(nums).filter(i -> i!=val).toArray();
+      System.arraycopy(newNums, 0, nums, 0, newNums.length);
+      return newNums.length;
+  }
   
 }
